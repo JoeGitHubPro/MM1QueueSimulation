@@ -1,0 +1,11 @@
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\bin\Debug\MM1QueueSimulationGUI.exe.config
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\bin\Debug\MM1QueueSimulationGUI.exe
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\bin\Debug\MM1QueueSimulationGUI.pdb
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\obj\Debug\MM1QueueSimulationGUI.csproj.AssemblyReference.cache
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\obj\Debug\MM1QueueSimulationGUI.csproj.SuggestedBindingRedirects.cache
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\obj\Debug\MM1QueueSimulationGUI.Form1.resources
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\obj\Debug\MM1QueueSimulationGUI.Properties.Resources.resources
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\obj\Debug\MM1QueueSimulationGUI.csproj.GenerateResource.cache
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\obj\Debug\MM1QueueSimulationGUI.csproj.CoreCompileInputs.cache
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\obj\Debug\MM1QueueSimulationGUI.exe
+E:\Windows\Faculty\Modeling And Simulation\MM1QueueSimulation\MM1QueueSimulationGUI\obj\Debug\MM1QueueSimulationGUI.pdb
